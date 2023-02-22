@@ -1,0 +1,2 @@
+istioctl:
+	brew install istioctl
